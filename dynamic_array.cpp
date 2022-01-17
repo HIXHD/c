@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -23,7 +23,7 @@ int main()
     delete[] wsk;
     cout << "Suma elementow wynosi: " << suma << endl;
     return 0;
-}
+}*/
 
 
 
